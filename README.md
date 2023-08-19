@@ -18,25 +18,11 @@
 Unveil the essence of your creative journey with the Portfolio Theme. Crafted for visionaries, artists, and innovators, it's more than a website – it's a digital masterpiece that resonates with your artistic soul. Embark on a visual adventure today.
 </p>
 
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/portfolio.png" height= "800"></div>
+<img src="https://github.com/laeth0/PFolio/blob/main/assets/img/mockups.png">
+<img src="https://github.com/laeth0/PFolio/blob/main/assets/img/main%20page%20image.png">
 
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_.png" height= "800"></div>
 
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(1).png" height= "800"></div>
 
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(2).png" height= "800"></div>
 
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(3).png" height= "800"></div>
 
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(4).png" height= "800"></div>
-
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(5).png" height= "800"></div>
-
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(6).png" height= "800"></div>
-
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(7).png" height= "800"></div>
-
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(8).png" height= "800"></div>
-
-<div align="center"><img src="https://github.com/laeth0/PFolio/blob/main/image%20for%20readme%20file/my-first-port-folio.netlify.app_%20(9).png" height= "800"></div>
 
